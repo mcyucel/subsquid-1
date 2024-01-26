@@ -1,0 +1,2 @@
+# subsquid
+Subsquid Node kurulumu
